@@ -2,6 +2,8 @@
 
 ![Logo_AM](assets/images/logo.png)
 
+# PLATAFORMA WEB DE CONTACTO ENTRE PERSONAS ADULTAS MAYORES Y JÓVENES
+
 * **Track:** _Especialización UX Design_
 * **Curso:** _Aplica lo aprendido_
 * **Unidad:** _Herramientas complementarias_
@@ -46,7 +48,7 @@ Por otro lado, si es que se te hace difícil pensar en una idea para un producto
 
  **Link de Google Drive:**
 
-    [Carpeta de trabajo en Google Drive](https://drive.google.com/drive/u/0/folders/1SK12oIfkxzoclgjWt3Pg_hF47w_Pucyu).
+[Carpeta de trabajo en Google Drive](https://drive.google.com/drive/u/0/folders/1SK12oIfkxzoclgjWt3Pg_hF47w_Pucyu).
 
 ***
 
@@ -189,22 +191,25 @@ Para mantener un orden y objetivos claros, se proponen estos entregables:
 
    #### 5.- Definición de los User personas.
 
-   ![User persona](assets/images/user-person.jpg).
-   ![User persona](assets/images/user persona.png).
+   ![User persona](assets/images/user-person.jpg)
+   ![User persona](assets/images/user persona.png)
 
    #### 6.- Definición de los Problems Statements.
 
   ![PS](assets/images/problem-staments.png).
+
    [Problem staments](https://docs.google.com/document/d/1UmWc-Mgjoa6kdpr13gA9Yv8llhqQebM9fMR5QlEWtC8/edit)
 
    #### 7.- Definición de los HOW MIGHT WE?
 
   ![WMW](assets/images/HMW.png).
+
    [HMW](https://docs.google.com/document/d/1tLpqpDCF6Iaq_v62fLHcUmXP0xOB417B72EFpDV6r2s/edit)
    
    #### 8.- Definición de los WHAT IF?
 
-  ![PS](assets/images/WI.png).
+  ![WI](assets/images/WI.png).
+
    [What If](https://docs.google.com/document/d/17eDSRrqpgh8rGU1k64tspuguu3ap74g6mS1kKfCdhng/edit)
 
    #### 9.- Definición de FEATURE LIST.
