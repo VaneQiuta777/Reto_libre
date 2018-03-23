@@ -158,7 +158,7 @@ Para mantener un orden y objetivos claros, se proponen estos entregables:
 
    #### 1.- Entrevista con usuarios y stakeholders
 
-   [Análisis de entrevistas personales](C:\Users\Vane\Documents\LABORATORIA\Sprint-5\Reto_libre\assets\docs\ENCUESTA PARA CONOCER LA OPINIÓN DE LOS PROFESIONALES DE LA SALUD CON RESPECTO A LOS ADULTOS MAYORES.docx).
+   [Análisis de entrevistas personales](assets/docs/ENCUESTA PARA CONOCER LA OPINIÓN DE LOS PROFESIONALES DE LA SALUD CON RESPECTO A LOS ADULTOS MAYORES.docx).
 
    #### 2.-  Encuestas a usuarios
 
