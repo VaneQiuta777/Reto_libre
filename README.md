@@ -158,7 +158,7 @@ Para mantener un orden y objetivos claros, se proponen estos entregables:
 
    #### 1.- Entrevista con usuarios y stakeholders
 
-   [Análisis de entrevistas personales](assets/docs/ENCUESTA PARA CONOCER LA OPINIÓN DE LOS PROFESIONALES DE LA SALUD CON RESPECTO A LOS ADULTOS MAYORES.docx).
+   [Análisis de entrevistas personales](assets/docs/entrevista.docx).
 
    #### 2.-  Encuestas a usuarios
 
@@ -183,7 +183,7 @@ Para mantener un orden y objetivos claros, se proponen estos entregables:
    
    - Paso 2.-  Se agrupó  los posits por temas.
 
-   ![Mapa de afinidad](assets/images/mapa de afinidad.jpg).
+   ![Mapa de afinidad](assets/images/mapa-de-afinidad.jpg).
 
    #### 3.- Benchmarking.
 
@@ -192,7 +192,7 @@ Para mantener un orden y objetivos claros, se proponen estos entregables:
    #### 5.- Definición de los User personas.
 
    ![User persona](assets/images/user-person.jpg)
-   ![User persona](assets/images/user persona.png)
+   ![User persona](assets/images/user-persona.png)
 
    #### 6.- Definición de los Problems Statements.
 
@@ -252,7 +252,7 @@ Para mantener un orden y objetivos claros, se proponen estos entregables:
 
    * Testing 05: Sr. Diócenes
     - No entiendo, el video al inicio, me confunde.
-    - A mí me gustaria aprender a usar mejor el celular, auqnue yo uso uno muy básico.
+    - A mí me gustaria aprender a usar mejor el celular, aunque yo uso uno muy básico.
 
   #### Resultado final del Prototipo
 
