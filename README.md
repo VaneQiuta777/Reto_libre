@@ -1,8 +1,9 @@
 # 
 
-![Logo_AM](assets/images/logo.png)
-
 # PLATAFORMA WEB DE CONTACTO ENTRE PERSONAS ADULTAS MAYORES Y JÓVENES
+
+![Foto_ppal](assets/images/foto_ppal.png)
+
 
 * **Track:** _Especialización UX Design_
 * **Curso:** _Aplica lo aprendido_
@@ -102,7 +103,9 @@ La relación intergeneracional, aprender sin límite de edad, entro otras muchas
 
 * Fit Brains Trainer: aunque cualquier sudoku o crucigrama te puede valer para mantener la mente ágil y despierta, esta app está diseñada de forma específica para que las personas mayores mantengan su memoria, agilicen la mente, y aumenten su capacidad de concentración, entre otros beneficios. Lo podrás conseguir a través de 360 sesiones de entrenamiento.
 
-* Lumosity, es un programa de entrenamiento cerebral diseñado por científicos. Esta aplicación combina más de 25 juegos cognitivos en un programa de entrenamiento diario que pone a prueba el cerebro. A través de esta aplicación, y según los diferentes apartados que la componen -como ser: memoria, atención, velocidad, flexibilidad y resolución de problemas-, el adulto mayor puede elegir qué es lo que quiere trabajar y desarrollar. De esta forma, mediante un programa fijado según necesidades y objetivos personalizados, se puede trabajar cada uno los aspectos que se quiera mejorar de manera fácil y sencilla.
+* Lumosity: es un programa de entrenamiento cerebral diseñado por científicos. Esta aplicación combina más de 25 juegos cognitivos en un programa de entrenamiento diario que pone a prueba el cerebro. A través de esta aplicación, y según los diferentes apartados que la componen -como ser: memoria, atención, velocidad, flexibilidad y resolución de problemas-, el adulto mayor puede elegir qué es lo que quiere trabajar y desarrollar. De esta forma, mediante un programa fijado según necesidades y objetivos personalizados, se puede trabajar cada uno los aspectos que se quiera mejorar de manera fácil y sencilla.
+
+* Aliver.Life: Una plataforma digital que promueve la ayuda mutua entre adultos mayores y jóvenes fue presentada en Panamá con el propósito de obtener servicios, generar ingresos y acercar a generaciones que comparten afines tecnológicos. Una herramienta que consiste en una página web y aplicación móvil.
 
 ##### HIPÓTESIS
 
