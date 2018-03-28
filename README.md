@@ -4,11 +4,12 @@
 
 ![Foto_ppal](assets/images/foto_ppal.png)
 
+# 
 
 * **Track:** _Especialización UX Design_
 * **Curso:** _Aplica lo aprendido_
 * **Unidad:** _Herramientas complementarias_
-* **Alummna:** _Nombre:_
+* **Alumna:** _Nombre:_
 
                 * L. Vanessa Colqui Santos
 
